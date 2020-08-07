@@ -1,0 +1,183 @@
+.author_image{
+	width: 50px;
+	height:50px;
+	border:2px solid#DDD;
+	border-radius: 50%;
+	float: left;
+}
+.author_name{
+	float: left;
+
+}
+
+.author_name>h4{
+	margin: 5px 5px;
+	margin-left: 15px;
+}
+
+.author_time{
+	margin: 5px;
+	margin-left: 15px;
+	line-height: 8px;
+	font-size: 10px;
+	font-weight: bold;
+	font-style: italic;
+	color:#AAA;
+}
+
+body{
+	background:url(../img/pattern13.jpg);
+	background-attachment: fixed;
+}
+
+.block-stripe{
+	background-color: #286090;
+	margin-bottom: 10px;
+	padding:4px;
+}
+
+.back_end_comments{
+	margin-top: px;
+}
+.btn{
+	float: ;
+}
+
+.shadow{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button-top{
+ 	margin-top: 10px;
+}
+
+.button_bottom{
+	margin-bottom: 15px;
+}
+.comment{
+	margin-bottom: 20px;
+}
+
+.comment_block{
+	margin-left: 60px;
+}
+
+.comment_content{
+	clear: both;
+	margin-left: 65px;
+	font-size: 13px;
+}
+.navbar{
+	position: fixed;
+	clear:both;
+	width:100%;
+	background-color: # ;
+	color:#FFF;
+}
+
+.panel-default{
+	margin-top: 70px;
+}
+
+.panel-footer{
+	background-color: #333333;
+	color:#FFF;
+}
+
+.panel-heading{
+	background:url(../img/ag-banner-beach-wildrye.jpg);
+	background-repeat: no-repeat;
+}
+
+.panel-body{
+	/*background-color: #E7EAD9;*/
+	background-color: #FFF;
+}
+
+#post_title{
+	background: #A8A8A8;
+	padding: 3px;
+	color:#000;
+	margin-top: 2px;
+}
+
+.footer_paragrah{
+	color:#FFF;
+ }
+
+hr {
+height: 1px;
+color: #123455;
+background-color: #ABABAB;
+border: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-shadow: 2px 1px 2px  ;
+    color:#000;
+}
+
+.marquee_text{
+	padding:6px;
+	background-color: #7BAAD6;
+	color:#FFF;
+	text-decoration: none;
+}
+
+.marquee_notice{
+	padding-top:6px;
+	background-color: #FFF;
+	color:#FFF;
+	text-decoration: none;
+	border:1px dotted#999;
+	padding: 4px;
+}
+
+.marquee_title{
+	border-bottom: 1px dotted#666;
+	margin-top: 12px;
+}
+.slide_panel{
+	background-color: #538929
+}
+
+a {
+	color:#000;
+}
+a:hover{
+	color:#286090;
+}
+
+img{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.well{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text_box{
+	background-color: #;
+	border:1px dotted#A8A8A8;
+	padding: 4px;
+
+}
+
+.text_box>a>p{
+	border-bottom:1px dotted#A8A8A8;
+	background-color: #E0E0E0;
+}
+.text_box>a>p:hover{
+	background-color: #FFF;
+}
+
+th{
+	background-color: #7BAAD6;
+	height: 20px;
+	margin-top: 20px;
+	color:#000;
+}
+
+.items{
+	background-color: #7BAAD6;
+}
